@@ -8,7 +8,7 @@
 - 📫 How to reach me **ajweaver18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> <a href="https://www.linkedin.com/in/andrew-weaver-1725-profile/">My LinkedIn</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
