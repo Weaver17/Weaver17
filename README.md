@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Mist - A free-to-play game "store"](https://github.com/Weaver17/Mist-frontend/tree/main)
 
-- 🌱 I’m currently learning **AWS, Java, Next.js**
+- 🌱 I’m currently learning **Python, Next.js**
 
 - 📫 How to reach me **ajweaver18@gmail.com**
 
