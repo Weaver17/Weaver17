@@ -1,9 +1,9 @@
 <h1 align="center">Hello! I'm Andrew Weaver</h1>
 <h3 align="center">I am an Auto Body Technician-turned-Software Engineer with strong problem-solving skills and a keen attention to detail. I'm most comfortable with HTML, JavaScript, and React, and I’m eager to apply my technical expertise and adaptability to software development.</h3>
 
-- 🔭 I’m currently working on [Mist - A free-to-play game "store"](https://mistfreegames.vercel.app/), My own FPS Game
+- 🔭 I’m currently working on [Mist - A free-to-play game "store"](https://mistfreegames.vercel.app/)
 
-- 🌱 I’m currently learning **Next.js 16, C#, Unity**
+- 🌱 I’m currently learning **Next.js 16, C#**
 
 - 📫 How to reach me **ajweaver18@gmail.com**
 
