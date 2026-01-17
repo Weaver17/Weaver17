@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Mist - A free-to-play game "store"](https://mistfreegames.vercel.app/)
 
-- 🌱 I’m currently learning **Next.js 16, C#**
+- 🌱 I’m currently learning **Next.js 16, C#, Tanstack Start**
 
 - 📫 How to reach me **ajweaver18@gmail.com**
 
